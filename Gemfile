@@ -37,4 +37,5 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
+# To be able to test performance
 gem 'ruby-prof', :git => 'git://github.com/wycats/ruby-prof.git'
